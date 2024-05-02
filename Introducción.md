@@ -30,17 +30,17 @@ Git, como sistema de control de versiones distribuido, se maneja principalmente 
 
 #### Aquí hay una descripción básica de algunos de los comandos más comunes de Git y cómo se utilizan en la interfaz de línea de comandos:
 
-1.**`git init`:**  Inicializa un nuevo repositorio Git en un directorio específico.
-2.**`git clone`:** Clona un repositorio Git existente desde una ubicación remota (como GitHub) en tu computadora local.
-3.**`git add`:** Agrega archivos al área de preparación (staging) para ser incluidos en el próximo commit.
-4.**`git commit`:** Crea un nuevo commit que incluye los cambios en los archivos que han sido agregados al área de preparación.
-5.**`git push`:** Envía los commits locales a un repositorio remoto, como GitHub.
-6.**`git pull`:** Obtiene los cambios desde un repositorio remoto y los fusiona con tu repositorio local.
-7.**`git status`:** Muestra el estado actual del repositorio, incluyendo archivos modificados, archivos en el área de preparación y el branch actual.
-8.**`git branch`:** Muestra una lista de ramas (branches) en el repositorio y permite crear, eliminar y cambiar entre ramas.
-9.**`git checkout`:** Cambia entre ramas o restaura archivos a una versión específica.
-10.**`git merge`:** Fusiona cambios de una rama a otra.
-
+1. **`git init`:** Inicializa un nuevo repositorio Git en un directorio específico.
+2. **`git clone`:** Clona un repositorio Git existente desde una ubicación remota (como GitHub) en tu computadora local.
+3. **`git add`:** Agrega archivos al área de preparación (staging) para ser incluidos en el próximo commit.
+4. **`git commit`:** Crea un nuevo commit que incluye los cambios en los archivos que han sido agregados al área de preparación.
+5. **`git push`:** Envía los commits locales a un repositorio remoto, como GitHub.
+6. **`git pull`:** Obtiene los cambios desde un repositorio remoto y los fusiona con tu repositorio local.
+7. **`git status`:** Muestra el estado actual del repositorio, incluyendo archivos modificados, archivos en el área de preparación y el branch actual.
+8. **`git branch`:** Muestra una lista de ramas (branches) en el repositorio y permite crear, eliminar y cambiar entre ramas.
+9. **`git checkout`:** Cambia entre ramas o restaura archivos a una versión específica.
+10. **`git merge`:** Fusiona cambios de una rama a otra.
+    
 #### Archivos locales: 
 
 1. **Inicializa un repositorio local:** Si aún no tienes un repositorio Git en tu computadora, puedes crear uno mediante el comando `git init` en la línea de comandos dentro del directorio de tu proyecto.
