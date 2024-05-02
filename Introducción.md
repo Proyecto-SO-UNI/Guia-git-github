@@ -17,8 +17,7 @@ Sin embargo, antes de sumergirnos en el mundo de Git y GitHub, es crucial compre
 1. **Instalación a través de Xcode Command Line Tools (opción recomendada):** En macOS, Git suele estar disponible a través de las herramientas de línea de comandos de Xcode. Abre la terminal y ejecuta el siguiente comando: xcode-select --install.
 2.  **Instalación a través de Homebrew (opción alternativa):** Si prefieres usar Homebrew para instalar Git, puedes ejecutar el siguiente comando en la terminal: brew install git
 3.  Homebrew es un gestor de paquetes para macOS que simplifica la instalación de software de código abierto.
-3. **Verifica la instalación:** Después de completar la instalación, verifica que Git esté correctamente instalado abriendo la terminal y escribiendo
-4. `git --version`. Deberías ver la versión de Git que se instaló.
+3. **Verifica la instalación:** Después de completar la instalación, verifica que Git esté correctamente instalado abriendo la terminal y escribiendo `git --version`. Deberías ver la versión de Git que se instaló.
 
 #### Linux (Ubuntu/Debian):
 1. **Instalación a través del administrador de paquetes:** Abre la terminal y ejecuta el siguiente comando para instalar Git en Ubuntu o Debian:
